@@ -1,0 +1,8 @@
+{
+    "workbench.preferredDarkColorTheme": "Abyss",
+    "workbench.preferredLightColorTheme": "Abyss",
+    "typescript.inlayHints.enumMemberValues.enabled": true,
+    "workbench.editor.showIcons": true,
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.iconTheme": "vs-seti"
+}
